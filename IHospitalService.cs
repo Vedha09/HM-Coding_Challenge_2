@@ -16,5 +16,7 @@ namespace HM_CodingChallenge.Data
         int ScheduleAppointment(Appointment appointment);
         int UpdateAppointment(int id, string new_desc);
         int CancelAppointment(int id);
+        int PatientExists(int patientId);
+        int DoctorExists(int doctorId);
     }
 }
