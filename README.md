@@ -1,1 +1,0 @@
-# HM-Coding_Challenge_2
